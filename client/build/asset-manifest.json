@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f41ec61.css",
+    "main.js": "/static/js/main.a5531592.js",
+    "static/media/pf-1.png": "/static/media/pf-1.79dcb3aa3b9059ef3ed6.png",
+    "static/media/afnan05.png": "/static/media/afnan05.9dc90f19ab367fa56b43.png",
+    "static/media/afnan04.png": "/static/media/afnan04.88d1ce06588e8fd50e8b.png",
+    "static/media/afnan011.png": "/static/media/afnan011.2d8c781572b8a4c9f742.png",
+    "static/media/pf-3.png": "/static/media/pf-3.2cb1ed102b36bbad5b0a.png",
+    "static/media/project-5.png": "/static/media/project-5.6edda164b8bb6208085d.png",
+    "static/media/afnan02.jpg": "/static/media/afnan02.6f557b45dcde157211a7.jpg",
+    "static/media/pf-4.png": "/static/media/pf-4.c180bbab584e9cf2078c.png",
+    "static/media/pf-2.png": "/static/media/pf-2.d8c98590a0ec3f458cf7.png",
+    "index.html": "/index.html",
+    "main.6f41ec61.css.map": "/static/css/main.6f41ec61.css.map",
+    "main.a5531592.js.map": "/static/js/main.a5531592.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f41ec61.css",
+    "static/js/main.a5531592.js"
+  ]
+}
